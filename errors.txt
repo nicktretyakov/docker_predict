@@ -1,0 +1,5 @@
+warning: unused config key `registry.protocol` in `/home/n/.cargo/config.toml`
+warning: unused config key `registry.protocol` in `/home/n/.cargo/config.toml`
+   Compiling ml-container-orchestrator v0.1.0 (/mnt/samsung/RUST/ml-container-orchestrator)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 1.63s
+     Running `target/debug/ml-container-orchestrator`
